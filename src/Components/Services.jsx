@@ -55,6 +55,7 @@ export default function Services() {
                 </div>
             </div>
 
+
             <div className="card">
                 <br />
                 <img src={third} alt="pic" className="card-img-top" />
@@ -65,6 +66,34 @@ export default function Services() {
 
                 </div>
             </div>
+
+            <div className="card">
+                <br />
+                <img src={second} alt="pic" className="card-img-top" />
+                <div className="card-body">
+                    <h2 className="card-title">Romeu e Julieta</h2>
+                    <p className="text">Um queijo branco e levemente salgado e goiabada, o queijo é cortado em fatias e servido com a goiabada por cima ou ao lado.</p>
+                </div>
+            </div>
+
+            <div className="card">
+                <br />
+                <img src={second} alt="pic" className="card-img-top" />
+                <div className="card-body">
+                    <h2 className="card-title">Canjica Doce</h2>
+                    <p className="text">Sobremesa feita com grãos de milho cozidos em leite, açúcar e canela, semelhante ao mungunzá nordestino.</p>
+                </div>
+            </div>
+
+            <div className="card">
+                <br />
+                <img src={second} alt="pic" className="card-img-top" />
+                <div className="card-body">
+                    <h2 className="card-title">Arroz Doce</h2>
+                    <p className="text">Sobremesa preparada com arroz cozido em leite, açúcar, canela e cravo, servido quente ou frio.</p>
+                </div>
+            </div>
+            
             <br /><br /><br /><br /><br /><br />
         </div>
     )
